@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Olá me chamo Renan Felipe, tenho 22 anos e sou de Brasilia DF.
+Olá, me chamo Renan Felipe, tenho 22 anos e sou de Brasilia DF.
 Concluir o ensino medio no CEM 414 de Samambaia Norte, estou cursando Analise e Desenvolvimento de Sistemas. Gosto muito de tecnologia estou sempre estudando e pesquisando sobre especialmente em programação e desenvolvimento web. e estou buscando um estágio na área. 
 
 <p align="left">
